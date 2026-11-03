@@ -1,0 +1,123 @@
+{
+  "options": [
+    {
+      "id": "start",
+      "title": {
+        "en": "Locate the Main TV for the Basement Art Room",
+        "es": "Localice la TV principal para la sala de arte del sótano"
+      },
+      "steps": [
+        {
+          "instruction": {
+            "en": "The Main TV should look something like this",
+            "es": "La TV principal debería verse algo así"
+          },
+          "image": "QNS.ART.MainTV.jpg",
+          "alt": {
+            "en": "Pic showing the Main TV",
+            "es": "Imagen que muestra la TV principal"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Let's first check to see if the computer is on. You can find it behind the TV on it's right side. Check to see if the blue light is on, if not, press the power button to turn it on.",
+            "es": "Primero verifiquemos si la computadora está encendida. Puede encontrarla detrás de la TV en su lado derecho. Verifique si la luz azul está encendida; si no es así, presione el botón de encendido para encenderla."
+          },
+          "video_url": "https://drive.google.com/file/d/1egeZWZS_HyeUWooX6-cA_eUQS7NnGl6_/view?usp=sharing",
+          "alt": {
+            "en": "Video showing where the PC is located",
+            "es": "Video que muestra dónde está ubicada la PC"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Next, let's turn the TV on, if it is not on already.",
+            "es": "A continuación, encendamos la TV, si aún no está encendida."
+          },
+          "image": "QNS.ART.OnButton.jpg",
+          "alt": {
+            "en": "Shows the button for power on the Main TV",
+            "es": "Muestra el botón de encendido en la TV principal"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Now, let's change the input on the TV. Click on the 'HOME' button on the Main TV",
+            "es": "Ahora, cambiemos la entrada de la TV. Haga clic en el botón 'HOME' (Inicio) en la TV principal"
+          },
+          "image": "QNS.ART.HomeButton.jpg",
+          "alt": {
+            "en": "Shows the HOME button on the Main TV",
+            "es": "Muestra el botón HOME en la TV principal"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Select the option for 'PC' on the screen.",
+            "es": "Seleccione la opción 'PC' en la pantalla."
+          },
+          "image": "QNS.ART.PCInput.jpg",
+          "alt": {
+            "en": "Pic showing the PC input on the main screen",
+            "es": "Imagen que muestra la entrada de PC en la pantalla principal"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Now, choose the HDMI 1 option in the next menu screen.",
+            "es": "Ahora, elija la opción HDMI 1 en la siguiente pantalla del menú."
+          },
+          "image": "QNS.ART.input1.jpg",
+          "alt": {
+            "en": "Pic showing the HDMI 1 option on the main screen.",
+            "es": "Imagen que muestra la opción HDMI 1 en la pantalla principal."
+          }
+        },
+        {
+          "instruction": {
+            "en": "If you've reached this step, something that looks like a Windows Computer should be displaying! You can maximize the screen using this button:",
+            "es": "Si ha llegado a este paso, ¡debería estar mostrando algo que parece una computadora Windows! Puede maximizar la pantalla usando este botón:"
+          },
+          "image": "QNS.ART.maximizeWindow.jpg",
+          "alt": {
+            "en": "Pic showing how to maximize the screen",
+            "es": "Imagen que muestra cómo maximizar la pantalla"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Let's find the keyboard for the computer! If the keyboard is not outside on any table, check in the cabinets above the sink area.",
+            "es": "¡Busquemos el teclado para la computadora! Si el teclado no está afuera en alguna mesa, busque en los gabinetes sobre el área del fregadero."
+          },
+          "image": "QNS.ART.keyboard.jpg",
+          "alt": {
+            "en": "Pic showing the Keyboard for the basement Art Room",
+            "es": "Imagen que muestra el teclado para la sala de arte del sótano"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Make sure the keyboard is on!",
+            "es": "¡Asegúrese de que el teclado esté encendido!"
+          },
+          "image": "QNS.ART.keyboardON.jpg",
+          "alt": {
+            "en": "Pic showing the switch for Keyboard",
+            "es": "Imagen que muestra el interruptor del teclado"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Voila! You're ready to go! Now click on 'Other User' on the bottom left and sign into your profile!",
+            "es": "¡Voilá! ¡Está listo para continuar! Ahora haga clic en 'Otro usuario' en la parte inferior izquierda e inicie sesión en su perfil!"
+          },
+          "image": "QNS.ART.otheruserlogin.jpg",
+          "alt": {
+            "en": "Pic displaying the 'Other Users' log in screen on the Main TV",
+            "es": "Imagen que muestra la pantalla de inicio de sesión de 'Otros usuarios' en la TV principal"
+          }
+        }
+      ]
+    }
+  ]
+}
